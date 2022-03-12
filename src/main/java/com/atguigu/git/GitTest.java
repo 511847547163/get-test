@@ -10,9 +10,7 @@ public class GitTest {
         System.out.println("heel git3");
         System.out.println("heel git3");
         System.out.println("heel git4");
-        System.out.println("heel git4");
-        System.out.println("heel git4");
-        System.out.println("heel git4");
-        System.out.println("heel git4");
+        System.out.println("hot-fix test！");
+
     }
 }
